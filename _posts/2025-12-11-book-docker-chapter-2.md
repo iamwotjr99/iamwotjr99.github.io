@@ -161,4 +161,4 @@ nano index.html
 docker cp index.html 75:/usr/local/apache2/htdocs/index.html
 ```
 
-![image.png](/assets/lib/docker-study/ch2-lab-result.png)
+![image.png](/assets/docker-study/ch2-lab-result.png)
