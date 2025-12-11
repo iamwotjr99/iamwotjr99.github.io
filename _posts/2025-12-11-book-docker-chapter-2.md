@@ -2,7 +2,7 @@
 title: "[도커 교과서] 2장 도커의 기본적인 사용법"
 date: 2025-12-11 14:00:00 +0900
 categories: [Study, Docker]
-tags: [docker]
+tags: [Docker]
 ---
 
 # 2장 도커의 기본적인 사용법
