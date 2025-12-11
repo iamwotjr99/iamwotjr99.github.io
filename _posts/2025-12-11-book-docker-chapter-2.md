@@ -31,7 +31,7 @@ docker container run {허브에 업로드되어있는 도커 이미지}
 
 ## 2.2 컨테이너란 무엇인가?
 
-![image.png](2%EC%9E%A5%20%EB%8F%84%EC%BB%A4%EC%9D%98%20%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9D%B8%20%EC%82%AC%EC%9A%A9%EB%B2%95/image.png)
+![image.png](https://thebook.io/img/080258/050_2.jpg)
 
 컨테이너 안에는 애플리케이션, 애플리케이션을 실행할 컴퓨터(IP 주소, 컴퓨터 이름, 디스크 드라이브)가 존재
 
@@ -42,7 +42,7 @@ docker container run {허브에 업로드되어있는 도커 이미지}
 
 ### 가상 머신 vs 컨테이너
 
-![image.png](2%EC%9E%A5%20%EB%8F%84%EC%BB%A4%EC%9D%98%20%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9D%B8%20%EC%82%AC%EC%9A%A9%EB%B2%95/image%201.png)
+![image.png](https://thebook.io/img/080258/051.jpg)
 
 가상 머신은 호스트 컴퓨터의 운영체제를 공유하지 않고 **별도의 운영체제를 갖음(격리)**
 
@@ -133,7 +133,7 @@ docker container rm --force $(docker container ls --all --quiet)
 
 ## 2.5 도커가 컨테이너를 실행하는 원리
 
-![image.png](2%EC%9E%A5%20%EB%8F%84%EC%BB%A4%EC%9D%98%20%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9D%B8%20%EC%82%AC%EC%9A%A9%EB%B2%95/image%202.png)
+![image.png](https://thebook.io/img/080258/061.jpg)
 
 1. **도커 엔진**
     - **도커의 관리 기능**을 맡는 컴포넌트
