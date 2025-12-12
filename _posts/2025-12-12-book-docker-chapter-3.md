@@ -1,5 +1,5 @@
 ---
-title: "[도커 교과서] 3장 도커의 기본적인 사용법"
+title: "[도커 교과서] 3장 도커 이미지 만들기"
 date: 2025-12-12 16:29:00 +0900
 categories: [Study, Docker]
 tags: [Docker]
